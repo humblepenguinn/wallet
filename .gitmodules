@@ -1,0 +1,3 @@
+[submodule "odyssey"]
+	path = odyssey
+	url = https://github.com/humblepenguinn/odyssey
